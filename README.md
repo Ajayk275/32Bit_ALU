@@ -1,4 +1,3 @@
-![Screenshot (53)](https://github.com/user-attachments/assets/32e75ad2-e115-4bd8-8007-c8bfd4d64a89)##  Exp-No:3 - 32 Bit ALU Design 
 
 ## Aim:
 
